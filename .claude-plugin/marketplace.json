@@ -14,7 +14,6 @@
         "repo": "Benny-Lewis/home-assistant-assistant"
       },
       "description": "Manage your Home Assistant setup through natural language — automations, scripts, scenes, dashboards, naming, deployment, and more.",
-      "version": "1.3.3",
       "author": { "name": "blewis" },
       "homepage": "https://github.com/Benny-Lewis/home-assistant-assistant",
       "license": "MPL-2.0",
@@ -28,7 +27,6 @@
         "repo": "Benny-Lewis/garden-bot"
       },
       "description": "Gardening and landscaping assistant with persistent garden profiles, expert plant advice, and landscape design with visual mockups.",
-      "version": "0.1.0",
       "author": { "name": "blewis" },
       "homepage": "https://github.com/Benny-Lewis/garden-bot",
       "license": "MPL-2.0",
@@ -42,7 +40,6 @@
         "repo": "Benny-Lewis/personal-tools"
       },
       "description": "Personal workflow tools — Notepad++ tab cleanup, and more.",
-      "version": "1.0.0",
       "author": { "name": "blewis" },
       "homepage": "https://github.com/Benny-Lewis/personal-tools",
       "license": "MPL-2.0",
